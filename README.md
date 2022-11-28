@@ -25,7 +25,7 @@ It will help you control your drivers and cars.
 | `Services`                                  | Services are responsible for data processing.                                                                                          |
 | `DAO`                                       | This layer is responsible for working with database.                                                                                   |
 
-![alt text](C:\Users\user\Documents\taxi_models_diagram.jpeg)
+![diagram](img/taxi_models_diagram.jpeg)
 
 ### 💻 Technologies:
 
