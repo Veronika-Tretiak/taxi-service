@@ -7,7 +7,7 @@
     <title>Title</title>
 </head>
 <body>
-<a class="table_dark" href="${pageContext.request.contextPath}/logout">Logout</a></br>
-<a class="table_dark" href="${pageContext.request.contextPath}/index">Title page</a>
+<a class="table_dark" style="font-size: 20px" href="${pageContext.request.contextPath}/logout">Logout</a></br>
+<a class="table_dark" style="font-size: 20px" href="${pageContext.request.contextPath}/index">Title page</a>
 </body>
 </html>
