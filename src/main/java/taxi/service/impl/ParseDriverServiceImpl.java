@@ -1,9 +1,10 @@
-package taxi.service;
+package taxi.service.impl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import taxi.lib.Service;
 import taxi.model.Driver;
+import taxi.service.ParseDriverService;
 
 @Service
 public class ParseDriverServiceImpl implements ParseDriverService {
