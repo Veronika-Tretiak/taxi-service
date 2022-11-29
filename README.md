@@ -30,7 +30,6 @@ It will help you control your drivers and cars.
 ### 💻 Technologies:
 
 - [MySQL](https://www.mysql.com/) as a database;
-- [MySQL connector](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22);
 - [Apache Tomcat](https://tomcat.apache.org/) as a server and a servlet container;
 - [Java Servlet API » 4.0.1](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/4.0.1);
 - [JSTL (JavaServer Pages Standard Tag Library)](https://mvnrepository.com/artifact/jstl/jstl/1.2) as a tag library for JSP pages;
